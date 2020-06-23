@@ -5,7 +5,9 @@
 We will use the kivy library to build a mobile app in Python. Below you will find the instructions on how to install kivy.
 
 ### Important note:
-Do not simply use pip install kivy to install kivy because even though the command may run without errors, you may get a [CRITICAL] [App] Unable to get a Window, abort error later on when you run a kivy app. Instead, see the instructions below in order to install kivy correctly.
+Do not simply use pip install kivy to install kivy because even though the command may run without errors, you may get a 
+#### [CRITICAL] [App] Unable to get a Window, abort
+error later on when you run a kivy app. Instead, see the instructions below in order to install kivy correctly.
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install kivy.
 
