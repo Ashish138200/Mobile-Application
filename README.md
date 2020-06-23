@@ -1,7 +1,7 @@
 # Mobile-Application
 
 ![Alt Text](https://img.shields.io/badge/Python-3.7.4-red) <br/>
-##### > Developing<br/>
+> Developing<br/>
   Tell you suitable quotes according to your mood 
 
 ## Installation
