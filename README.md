@@ -3,7 +3,8 @@
 > Developing<br/>
 ![Alt Text](https://img.shields.io/badge/Python-3.7.4-red) <br/>
 
-Tell you suitable quotes according to your mood 
+Tell you suitable quotes according to your mood<br/>
+![image](https://drive.google.com/uc?export=view&id=1Mkn3RNdStiCP65oyAb2smQLkFwBRkk91)
 
 ## Installation
 We will use the kivy library to build a mobile app in Python. Below you will find the instructions on how to install kivy.
